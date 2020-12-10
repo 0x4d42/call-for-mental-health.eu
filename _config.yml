@@ -2,7 +2,7 @@
 title: CALL FOR MENTAL HEALTH '20
 email: mail@call-for-mental-health.eu
 url: https://call-for-mental-health.eu
-description: "call for mental health 2020"
+description: "A livestream charity event to support mental health organizations."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: CALL FOR MENTAL HELATH '20
+footer: CALL FOR MENTAL HELATH
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
